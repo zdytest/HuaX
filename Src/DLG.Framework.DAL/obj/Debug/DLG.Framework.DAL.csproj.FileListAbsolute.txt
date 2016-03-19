@@ -1,0 +1,12 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Framework.DAL.xml
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Framework.DAL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Framework.DAL.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Framework.DAL\obj\Debug\DLG.Framework.DAL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Framework.DAL\obj\Debug\DLG.Framework.DAL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Framework.DAL\obj\Debug\DLG.Framework.DAL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Framework.DAL.xml
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Framework.DAL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Framework.DAL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Framework.DAL\obj\Debug\DLG.Framework.DAL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Framework.DAL\obj\Debug\DLG.Framework.DAL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Framework.DAL\obj\Debug\DLG.Framework.DAL.pdb

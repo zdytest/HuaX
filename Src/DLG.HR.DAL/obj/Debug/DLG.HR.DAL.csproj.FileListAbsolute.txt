@@ -1,0 +1,13 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.HR.DAL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.HR.DAL.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.OA.DAL\obj\Debug\DLG.HR.DAL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.OA.DAL\obj\Debug\DLG.HR.DAL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.OA.DAL\obj\Debug\DLG.HR.DAL.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.HR.DAL\obj\Debug\DLG.HR.DAL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.HR.DAL\obj\Debug\DLG.HR.DAL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.HR.DAL\obj\Debug\DLG.HR.DAL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.HR.DAL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.HR.DAL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.HR.DAL\obj\Debug\DLG.HR.DAL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.HR.DAL\obj\Debug\DLG.HR.DAL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.HR.DAL\obj\Debug\DLG.HR.DAL.pdb

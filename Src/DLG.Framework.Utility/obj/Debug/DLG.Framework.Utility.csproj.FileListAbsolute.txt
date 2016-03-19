@@ -1,0 +1,10 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Framework.Utility.xml
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Framework.Utility.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Framework.Utility.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Framework.Utility\obj\Debug\DLG.Framework.Utility.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Framework.Utility\obj\Debug\DLG.Framework.Utility.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Framework.Utility.xml
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Framework.Utility.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Framework.Utility.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Framework.Utility\obj\Debug\DLG.Framework.Utility.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Framework.Utility\obj\Debug\DLG.Framework.Utility.pdb

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E905FFE6-A1D5-48B2-81B7-8E8D4BC5F895}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DLG.Web</RootNamespace>
+    <AssemblyName>DLG.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ControllerBase.cs" />
+    <Compile Include="CookieContext.cs" />
+    <Compile Include="IAuthCookie.cs" />
+    <Compile Include="PermissionAttribute.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceContext.cs" />
+    <Compile Include="StaticFileHelper.cs" />
+    <Compile Include="UserContext.cs" />
+    <Compile Include="VerifyCodeHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DLG.Account.Contract\DLG.Account.Contract.csproj">
+      <Project>{08CFB8BA-AA0E-42F5-B6BF-140C64E34377}</Project>
+      <Name>DLG.Account.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Core.Cache\DLG.Core.Cache.csproj">
+      <Project>{A155C5D8-FEE0-415C-940A-26C94D61BE9B}</Project>
+      <Name>DLG.Core.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Core.Log\DLG.Core.Log.csproj">
+      <Project>{8ae51ee2-67db-4f57-98fe-cbb890c9a5a2}</Project>
+      <Name>DLG.Core.Log</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Core.Service\DLG.Core.Service.csproj">
+      <Project>{812c05fd-2baa-4799-b0ab-2711781133ba}</Project>
+      <Name>DLG.Core.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Crm.Contract\DLG.Crm.Contract.csproj">
+      <Project>{0db50285-89de-42c7-9274-8d1633aaf01c}</Project>
+      <Name>DLG.Crm.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.HR.Contract\DLG.HR.Contract.csproj">
+      <Project>{f6f83e95-5f65-410c-b49f-7763e2184251}</Project>
+      <Name>DLG.HR.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Core.Upload\DLG.Core.Upload.csproj">
+      <Project>{99D0022F-17D5-4DD5-B4D3-BA8FDC81F7AF}</Project>
+      <Name>DLG.Core.Upload</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Framework.Contract\DLG.Framework.Contract.csproj">
+      <Project>{11214D97-F23C-4E16-AA12-ECD824454744}</Project>
+      <Name>DLG.Framework.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Framework.Utility\DLG.Framework.Utility.csproj">
+      <Project>{9F519EF8-800F-40CB-9545-9AEADF0F387D}</Project>
+      <Name>DLG.Framework.Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLG.Framework.Web\DLG.Framework.Web.csproj">
+      <Project>{AA76F90E-2594-44C8-89D6-302A0C8757AD}</Project>
+      <Name>DLG.Framework.Web</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

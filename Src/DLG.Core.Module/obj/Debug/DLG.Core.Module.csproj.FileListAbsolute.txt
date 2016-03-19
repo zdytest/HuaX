@@ -1,0 +1,10 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Core.Module.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Core.Module.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Core.Module\obj\Debug\DLG.Core.Module.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Core.Module\obj\Debug\DLG.Core.Module.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Core.Module\obj\Debug\DLG.Core.Module.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Core.Module.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Core.Module.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Core.Module\obj\Debug\DLG.Core.Module.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Core.Module\obj\Debug\DLG.Core.Module.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Core.Module\obj\Debug\DLG.Core.Module.pdb

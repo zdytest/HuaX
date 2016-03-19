@@ -1,0 +1,10 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Core.Log.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Core.Log.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Core.Log\obj\Debug\DLG.Core.Log.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Core.Log\obj\Debug\DLG.Core.Log.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Core.Log\obj\Debug\DLG.Core.Log.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Core.Log.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Core.Log.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Core.Log\obj\Debug\DLG.Core.Log.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Core.Log\obj\Debug\DLG.Core.Log.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Core.Log\obj\Debug\DLG.Core.Log.pdb

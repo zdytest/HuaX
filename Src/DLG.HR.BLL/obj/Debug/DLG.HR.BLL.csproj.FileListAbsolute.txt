@@ -1,0 +1,13 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.HR.BLL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.HR.BLL.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.OA.BLL\obj\Debug\DLG.HR.BLL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.OA.BLL\obj\Debug\DLG.HR.BLL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.OA.BLL\obj\Debug\DLG.HR.BLL.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.HR.BLL\obj\Debug\DLG.HR.BLL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.HR.BLL\obj\Debug\DLG.HR.BLL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.HR.BLL\obj\Debug\DLG.HR.BLL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.HR.BLL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.HR.BLL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.HR.BLL\obj\Debug\DLG.HR.BLL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.HR.BLL\obj\Debug\DLG.HR.BLL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.HR.BLL\obj\Debug\DLG.HR.BLL.pdb

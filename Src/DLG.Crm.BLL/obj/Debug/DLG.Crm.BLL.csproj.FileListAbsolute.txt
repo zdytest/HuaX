@@ -1,0 +1,10 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Crm.BLL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Crm.BLL.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Crm.BLL\obj\Debug\DLG.Crm.BLL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Crm.BLL\obj\Debug\DLG.Crm.BLL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Crm.BLL\obj\Debug\DLG.Crm.BLL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Crm.BLL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Crm.BLL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Crm.BLL\obj\Debug\DLG.Crm.BLL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Crm.BLL\obj\Debug\DLG.Crm.BLL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Crm.BLL\obj\Debug\DLG.Crm.BLL.pdb

@@ -1,0 +1,10 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Crm.DAL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Crm.DAL.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Crm.DAL\obj\Debug\DLG.Crm.DAL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Crm.DAL\obj\Debug\DLG.Crm.DAL.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Crm.DAL\obj\Debug\DLG.Crm.DAL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Crm.DAL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Crm.DAL.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Crm.DAL\obj\Debug\DLG.Crm.DAL.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Crm.DAL\obj\Debug\DLG.Crm.DAL.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Crm.DAL\obj\Debug\DLG.Crm.DAL.pdb

@@ -1,0 +1,10 @@
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Account.Contract.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\bin\DLG.Account.Contract.pdb
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Account.Contract\obj\Debug\DLG.Account.Contract.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Account.Contract\obj\Debug\DLG.Account.Contract.dll
+C:\DevelopmentZone\HXLZBeta\HXLZBeta\Src\DLG.Account.Contract\obj\Debug\DLG.Account.Contract.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Account.Contract\obj\Debug\DLG.Account.Contract.csprojResolveAssemblyReference.cache
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Account.Contract\obj\Debug\DLG.Account.Contract.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\Src\DLG.Account.Contract\obj\Debug\DLG.Account.Contract.pdb
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Account.Contract.dll
+C:\DevelopmentZone\HXLZ\HXLZBeta\HXLZBeta\HXLZBeta\bin\DLG.Account.Contract.pdb
